@@ -1,6 +1,6 @@
-# TMC Prompts — releases
+# TMC Command Bar — releases
 
-Download files and the update feed for The Microbiome Clinic's TMC Prompts Mac app. No source code lives here.
+Download files and the update feed for The Microbiome Clinic's TMC Command Bar Mac app. No source code lives here.
 
 **Install:** open Terminal, paste this, press Enter:
 
