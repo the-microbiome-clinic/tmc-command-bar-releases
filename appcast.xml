@@ -3,6 +3,14 @@
     <channel>
         <title>TMC Prompts</title>
         <item>
+            <title>0.4</title>
+            <pubDate>Sat, 03 Oct 2026 10:54:48 +1000</pubDate>
+            <sparkle:version>0.4</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/the-microbiome-clinic/tmc-command-bar-releases/releases/download/v0.4/TMC-Prompts.zip" length="1346867" type="application/octet-stream" sparkle:edSignature="JpEZiCp1sJnpWWpntGdv8EXWw8FmkGiL5BPDd/lu2nMU6yv0/3crjCegT6qPoQnNq4C0NaPLY+WFiKDiX7Q8Ag=="/>
+        </item>
+        <item>
             <title>0.3</title>
             <pubDate>Sat, 03 Oct 2026 10:53:55 +1000</pubDate>
             <sparkle:version>0.3</sparkle:version>
