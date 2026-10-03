@@ -3,6 +3,14 @@
     <channel>
         <title>TMC Prompts</title>
         <item>
+            <title>0.5</title>
+            <pubDate>Sat, 03 Oct 2026 15:22:22 +1000</pubDate>
+            <sparkle:version>0.5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/the-microbiome-clinic/tmc-command-bar-releases/releases/download/v0.5/TMC-Command-Bar.zip" length="1929401" type="application/octet-stream" sparkle:edSignature="ujhK6o2am81cLo3fbD9FEkhet2N+09+yWXgKDzOWdVbqL274D2Z/pWS5mrEV2qVZbxbhc8LKlAInJcUqiUSiBQ=="/>
+        </item>
+        <item>
             <title>0.4</title>
             <pubDate>Sat, 03 Oct 2026 10:54:48 +1000</pubDate>
             <sparkle:version>0.4</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/the-microbiome-clinic/tmc-command-bar-releases/releases/download/v0.3/TMC-Prompts.zip" length="1346591" type="application/octet-stream" sparkle:edSignature="LwiGysBZWxgw3yFb3tpBgQvks76nDJUn3+aLuKXcYIhIfgW2a+bWhPFxoTLoTlpGSQM5+Dkh3slz88uKOPEpCw=="/>
-        </item>
-        <item>
-            <title>0.2</title>
-            <pubDate>Sat, 03 Oct 2026 10:44:46 +1000</pubDate>
-            <sparkle:version>0.2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/the-microbiome-clinic/tmc-command-bar-releases/releases/download/v0.2/TMC-Prompts.zip" length="1241766" type="application/octet-stream" sparkle:edSignature="0223RUlIkudVFDO5stAyfJoh+7xxaos3ENQjPYTxSc88q6ne6kNHpNm4vlziGqp3+e/038oQENvoBDqaYGV0Bw=="/>
         </item>
     </channel>
 </rss>
